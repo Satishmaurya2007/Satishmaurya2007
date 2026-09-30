@@ -71,7 +71,7 @@ I enjoy learning new technologies, solving problems, and turning ideas into real
 ### 🧰 Tools & Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,idea,mysql" />
 </p>
 
 ---
