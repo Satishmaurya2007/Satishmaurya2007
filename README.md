@@ -26,7 +26,7 @@ I enjoy learning new technologies, solving problems, and turning ideas into real
 ### 👨‍💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,sql,js" />
+<img src="https://skillicons.dev/icons?i=java,python,sql," />
 </p>
 
 ### 🤖 AI / Machine Learning
@@ -46,34 +46,20 @@ I enjoy learning new technologies, solving problems, and turning ideas into real
 * Exploratory Data Analysis
 * ML Pipelines
 
-### 🧠 Generative AI
-
-* Large Language Models (LLMs)
-* Prompt Engineering
-* Retrieval-Augmented Generation (RAG)
-* AI Agents
-* Agentic AI
-* Vector Databases
-* LangChain / LangFlow
-* IBM watsonx.ai
-* Google GenAI
 
 ### 🌐 Backend & APIs
 
 <p>
-<img src="https://skillicons.dev/icons?i=spring,flask,fastapi" />
+<img src="https://skillicons.dev/icons?i=fastapi" />
 </p>
 
-* REST APIs
-* Flask
 * FastAPI
-* Java Backend Development
 * API-based ML Deployment
 
 ### 🗄️ Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+<img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
 * MySQL
@@ -112,41 +98,7 @@ An AI-powered nutrition assistant designed to provide personalized nutrition gui
 
 ---
 
-## 💰 DealAI — AI Negotiation Assistant
 
-An AI-based assistant designed to help freelancers negotiate better prices and communicate confidently with clients.
-
-### Key Features
-
-* 💬 AI-assisted negotiation
-* 💰 Fair pricing suggestions
-* 🤝 Negotiation guidance
-* 📈 Helps freelancers communicate their value
-* 🧠 AI-powered recommendations
-
-### Technologies
-
-`AI` `Generative AI` `Python` `LLMs`
-
----
-
-## 🍽️ TummyTap — Smart Restaurant Booking & Ordering
-
-A restaurant solution that allows customers to book tables and pre-order food before arriving.
-
-### Key Features
-
-* 📅 Table booking
-* 🍔 Food pre-ordering
-* 💳 Online payment workflow
-* ⏱️ Reduced waiting time
-* 📱 User-friendly restaurant experience
-
-### Technologies
-
-`Frontend` `Database` `Java` `UI/UX`
-
----
 
 # 📚 Currently Learning
 
@@ -221,7 +173,7 @@ Artificial Intelligence
 # 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=satishmaurya2007&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -229,7 +181,7 @@ Artificial Intelligence
 # 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=satishmaurya2007&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
@@ -278,7 +230,7 @@ Currently strengthening my problem-solving skills through **Data Structures & Al
 
 <p align="center">
 
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/satishmaurya2025">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
 </a>
 
