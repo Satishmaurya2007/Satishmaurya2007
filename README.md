@@ -47,7 +47,7 @@ I enjoy learning new technologies, solving problems, and turning ideas into real
 * ML Pipelines
 
 
-### 🌐 Backend & APIs
+### 🌐 Backend & APIs(Learning)
 
 <p>
 <img src="https://skillicons.dev/icons?i=fastapi" />
